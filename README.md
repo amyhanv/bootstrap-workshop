@@ -2,10 +2,12 @@
 
 Presented by UVic Web Design and Development Club
 
+![Bootstrap Workshop](./img/BootstrapWorkshop.png)
+
 ## Getting Started
 
 * [Slides]()
-* [Demo Files]()
+* [Demo Files](./demo)
 
 ## What You Will Need
 
