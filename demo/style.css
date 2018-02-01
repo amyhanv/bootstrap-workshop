@@ -26,10 +26,17 @@ nav {
 
 .navbar-default {
     border: none !important;
-    color: #000 !important;
 }
 
+.navbar-default li {
+    color: #000;
+    font-family: 'Oswald';
+    font-size: 16px;
+}
 
+#doge-logo {
+    width: 4em;
+}
 .intro,
 .info
  { margin: 10em 0;}
