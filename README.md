@@ -4,17 +4,42 @@ Presented by UVic Web Design and Development Club
 
 ![Bootstrap Workshop](./img/BootstrapWorkshop.png)
 
-## Getting Started
+## Learning Outcomes
+
+* Learn how to install and implement Bootstrap
+* Create a page using Bootstrap
+* Become familiar with Bootstrap Components
+
+## Workshop Outline
+
+* Introduction
+* Workshop
+* Conclusion
+
+## Links
 
 * [Slides]()
 * [Demo Files](./demo)
+  * [CSS](./demo/style.css)
+  * [HTML](./demo/index.html)
 
-## What You Will Need
+## How to Prepare
 
-* Laptop
-* Terminal
+Please Bring the following: 
+
+* Laptop / Charger
+* Notepad and Pencil
+
+Please have access to: 
+
+* Terminal 
+
+## Requirements 
+
 * Text Editor (Atom, Sublime, VS Code)
 * Broswer (Chrome, Opera, Firefox)
+* Admin Access to your Computer
+* Basic Computer Skills (Keyboard / Mouse / Search)
 
 ## Ressources
 
