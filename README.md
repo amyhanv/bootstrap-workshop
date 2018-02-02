@@ -18,7 +18,7 @@ Presented by UVic Web Design and Development Club
 
 ## Links
 
-* [Slides]()
+* [Slides](UVicWebDev_Bootstrap_Workshop.pdf)
 * [Demo Files](./demo)
   * [CSS](./demo/style.css)
   * [HTML](./demo/index.html)
