@@ -1,6 +1,6 @@
 # Bootstrap Workshop
 
-Presented by UVic Web Design and Development Club
+Presented by UVic Web Design and Development Club 😀
 
 ![Bootstrap Workshop](./img/BootstrapWorkshop.png)
 
@@ -25,16 +25,16 @@ Presented by UVic Web Design and Development Club
 
 ## How to Prepare
 
-Please Bring the following: 
+Please Bring the following:
 
 * Laptop / Charger
 * Notepad and Pencil
 
-Please have access to: 
+Please have access to:
 
-* Terminal 
+* Terminal
 
-## Requirements 
+## Requirements
 
 * Text Editor (Atom, Sublime, VS Code)
 * Broswer (Chrome, Opera, Firefox)
